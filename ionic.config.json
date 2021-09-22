@@ -1,0 +1,7 @@
+{
+  "name": "tec-comp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
